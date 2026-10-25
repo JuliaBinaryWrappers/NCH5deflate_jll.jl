@@ -1,0 +1,595 @@
+[[NCH5deflate]]
+arch = "aarch64"
+git-tree-sha1 = "b66959ed532bbf0901ff7e351f215d5c85d70427"
+mpi = "mpiabi"
+os = "macos"
+
+    [[NCH5deflate.download]]
+    sha256 = "9907757ffb7fbc949d84c089d3b3a1cff66fbeeb1ea2e1ef4ae03d339cc89e34"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5deflate_jll.jl/releases/download/NCH5deflate-v401.1000.100+0/NCH5deflate.v401.1000.100.aarch64-apple-darwin-mpi+mpiabi.tar.gz"
+[[NCH5deflate]]
+arch = "aarch64"
+git-tree-sha1 = "b66959ed532bbf0901ff7e351f215d5c85d70427"
+mpi = "mpich"
+os = "macos"
+
+    [[NCH5deflate.download]]
+    sha256 = "9907757ffb7fbc949d84c089d3b3a1cff66fbeeb1ea2e1ef4ae03d339cc89e34"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5deflate_jll.jl/releases/download/NCH5deflate-v401.1000.100+0/NCH5deflate.v401.1000.100.aarch64-apple-darwin-mpi+mpich.tar.gz"
+[[NCH5deflate]]
+arch = "aarch64"
+git-tree-sha1 = "b66959ed532bbf0901ff7e351f215d5c85d70427"
+mpi = "mpitrampoline"
+os = "macos"
+
+    [[NCH5deflate.download]]
+    sha256 = "9907757ffb7fbc949d84c089d3b3a1cff66fbeeb1ea2e1ef4ae03d339cc89e34"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5deflate_jll.jl/releases/download/NCH5deflate-v401.1000.100+0/NCH5deflate.v401.1000.100.aarch64-apple-darwin-mpi+mpitrampoline.tar.gz"
+[[NCH5deflate]]
+arch = "aarch64"
+git-tree-sha1 = "b66959ed532bbf0901ff7e351f215d5c85d70427"
+mpi = "openmpi"
+os = "macos"
+
+    [[NCH5deflate.download]]
+    sha256 = "9907757ffb7fbc949d84c089d3b3a1cff66fbeeb1ea2e1ef4ae03d339cc89e34"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5deflate_jll.jl/releases/download/NCH5deflate-v401.1000.100+0/NCH5deflate.v401.1000.100.aarch64-apple-darwin-mpi+openmpi.tar.gz"
+[[NCH5deflate]]
+arch = "aarch64"
+git-tree-sha1 = "80f86e75d647e88b0824af99456b6394a231839b"
+libc = "glibc"
+mpi = "mpiabi"
+os = "linux"
+
+    [[NCH5deflate.download]]
+    sha256 = "dff06fd5adf09409b5337fa7ebdbe512830f5bc582397eef14319c77cda8dd81"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5deflate_jll.jl/releases/download/NCH5deflate-v401.1000.100+0/NCH5deflate.v401.1000.100.aarch64-linux-gnu-mpi+mpiabi.tar.gz"
+[[NCH5deflate]]
+arch = "aarch64"
+git-tree-sha1 = "80f86e75d647e88b0824af99456b6394a231839b"
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[NCH5deflate.download]]
+    sha256 = "dff06fd5adf09409b5337fa7ebdbe512830f5bc582397eef14319c77cda8dd81"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5deflate_jll.jl/releases/download/NCH5deflate-v401.1000.100+0/NCH5deflate.v401.1000.100.aarch64-linux-gnu-mpi+mpich.tar.gz"
+[[NCH5deflate]]
+arch = "aarch64"
+git-tree-sha1 = "80f86e75d647e88b0824af99456b6394a231839b"
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[NCH5deflate.download]]
+    sha256 = "dff06fd5adf09409b5337fa7ebdbe512830f5bc582397eef14319c77cda8dd81"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5deflate_jll.jl/releases/download/NCH5deflate-v401.1000.100+0/NCH5deflate.v401.1000.100.aarch64-linux-gnu-mpi+mpitrampoline.tar.gz"
+[[NCH5deflate]]
+arch = "aarch64"
+git-tree-sha1 = "80f86e75d647e88b0824af99456b6394a231839b"
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[NCH5deflate.download]]
+    sha256 = "dff06fd5adf09409b5337fa7ebdbe512830f5bc582397eef14319c77cda8dd81"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5deflate_jll.jl/releases/download/NCH5deflate-v401.1000.100+0/NCH5deflate.v401.1000.100.aarch64-linux-gnu-mpi+openmpi.tar.gz"
+[[NCH5deflate]]
+arch = "aarch64"
+git-tree-sha1 = "10dd6946ecf4cabeed9dfdfcfc045e8b94cadaf4"
+libc = "musl"
+mpi = "mpiabi"
+os = "linux"
+
+    [[NCH5deflate.download]]
+    sha256 = "b99ad0fbfb50228552ba306e833ce32de95013a187d082bccddbb691326e0209"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5deflate_jll.jl/releases/download/NCH5deflate-v401.1000.100+0/NCH5deflate.v401.1000.100.aarch64-linux-musl-mpi+mpiabi.tar.gz"
+[[NCH5deflate]]
+arch = "aarch64"
+git-tree-sha1 = "10dd6946ecf4cabeed9dfdfcfc045e8b94cadaf4"
+libc = "musl"
+mpi = "mpich"
+os = "linux"
+
+    [[NCH5deflate.download]]
+    sha256 = "b99ad0fbfb50228552ba306e833ce32de95013a187d082bccddbb691326e0209"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5deflate_jll.jl/releases/download/NCH5deflate-v401.1000.100+0/NCH5deflate.v401.1000.100.aarch64-linux-musl-mpi+mpich.tar.gz"
+[[NCH5deflate]]
+arch = "aarch64"
+git-tree-sha1 = "10dd6946ecf4cabeed9dfdfcfc045e8b94cadaf4"
+libc = "musl"
+mpi = "openmpi"
+os = "linux"
+
+    [[NCH5deflate.download]]
+    sha256 = "b99ad0fbfb50228552ba306e833ce32de95013a187d082bccddbb691326e0209"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5deflate_jll.jl/releases/download/NCH5deflate-v401.1000.100+0/NCH5deflate.v401.1000.100.aarch64-linux-musl-mpi+openmpi.tar.gz"
+[[NCH5deflate]]
+arch = "aarch64"
+git-tree-sha1 = "310511bf7de33d704daf00c374d44d103f351b57"
+mpi = "mpiabi"
+os = "freebsd"
+
+    [[NCH5deflate.download]]
+    sha256 = "ae5feabf8bd640175827dfc09d30f30e922e8ae00306a2dd69592b1fd168a138"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5deflate_jll.jl/releases/download/NCH5deflate-v401.1000.100+0/NCH5deflate.v401.1000.100.aarch64-unknown-freebsd-mpi+mpiabi.tar.gz"
+[[NCH5deflate]]
+arch = "aarch64"
+git-tree-sha1 = "310511bf7de33d704daf00c374d44d103f351b57"
+mpi = "mpich"
+os = "freebsd"
+
+    [[NCH5deflate.download]]
+    sha256 = "ae5feabf8bd640175827dfc09d30f30e922e8ae00306a2dd69592b1fd168a138"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5deflate_jll.jl/releases/download/NCH5deflate-v401.1000.100+0/NCH5deflate.v401.1000.100.aarch64-unknown-freebsd-mpi+mpich.tar.gz"
+[[NCH5deflate]]
+arch = "aarch64"
+git-tree-sha1 = "310511bf7de33d704daf00c374d44d103f351b57"
+mpi = "mpitrampoline"
+os = "freebsd"
+
+    [[NCH5deflate.download]]
+    sha256 = "ae5feabf8bd640175827dfc09d30f30e922e8ae00306a2dd69592b1fd168a138"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5deflate_jll.jl/releases/download/NCH5deflate-v401.1000.100+0/NCH5deflate.v401.1000.100.aarch64-unknown-freebsd-mpi+mpitrampoline.tar.gz"
+[[NCH5deflate]]
+arch = "aarch64"
+git-tree-sha1 = "310511bf7de33d704daf00c374d44d103f351b57"
+mpi = "openmpi"
+os = "freebsd"
+
+    [[NCH5deflate.download]]
+    sha256 = "ae5feabf8bd640175827dfc09d30f30e922e8ae00306a2dd69592b1fd168a138"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5deflate_jll.jl/releases/download/NCH5deflate-v401.1000.100+0/NCH5deflate.v401.1000.100.aarch64-unknown-freebsd-mpi+openmpi.tar.gz"
+[[NCH5deflate]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "57bdb0f21f630e9a8307c50f99d3f2b0ece7bfe8"
+libc = "glibc"
+mpi = "mpiabi"
+os = "linux"
+
+    [[NCH5deflate.download]]
+    sha256 = "0868372022ce3c1ace5387837bb69f7ad33cc829f7c33dff010c68c2309e956a"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5deflate_jll.jl/releases/download/NCH5deflate-v401.1000.100+0/NCH5deflate.v401.1000.100.armv6l-linux-gnueabihf-mpi+mpiabi.tar.gz"
+[[NCH5deflate]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "57bdb0f21f630e9a8307c50f99d3f2b0ece7bfe8"
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[NCH5deflate.download]]
+    sha256 = "0868372022ce3c1ace5387837bb69f7ad33cc829f7c33dff010c68c2309e956a"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5deflate_jll.jl/releases/download/NCH5deflate-v401.1000.100+0/NCH5deflate.v401.1000.100.armv6l-linux-gnueabihf-mpi+mpich.tar.gz"
+[[NCH5deflate]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "57bdb0f21f630e9a8307c50f99d3f2b0ece7bfe8"
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[NCH5deflate.download]]
+    sha256 = "0868372022ce3c1ace5387837bb69f7ad33cc829f7c33dff010c68c2309e956a"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5deflate_jll.jl/releases/download/NCH5deflate-v401.1000.100+0/NCH5deflate.v401.1000.100.armv6l-linux-gnueabihf-mpi+mpitrampoline.tar.gz"
+[[NCH5deflate]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "6eaf7646a60bc0bf54a3f3a5385ade441682db87"
+libc = "musl"
+mpi = "mpiabi"
+os = "linux"
+
+    [[NCH5deflate.download]]
+    sha256 = "85cd60fc995bbdf5bec714d9c9efb25018f6efebc1cab3f8cc0d1256293ff4b0"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5deflate_jll.jl/releases/download/NCH5deflate-v401.1000.100+0/NCH5deflate.v401.1000.100.armv6l-linux-musleabihf-mpi+mpiabi.tar.gz"
+[[NCH5deflate]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "6eaf7646a60bc0bf54a3f3a5385ade441682db87"
+libc = "musl"
+mpi = "mpich"
+os = "linux"
+
+    [[NCH5deflate.download]]
+    sha256 = "85cd60fc995bbdf5bec714d9c9efb25018f6efebc1cab3f8cc0d1256293ff4b0"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5deflate_jll.jl/releases/download/NCH5deflate-v401.1000.100+0/NCH5deflate.v401.1000.100.armv6l-linux-musleabihf-mpi+mpich.tar.gz"
+[[NCH5deflate]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "6eaf7646a60bc0bf54a3f3a5385ade441682db87"
+libc = "musl"
+mpi = "openmpi"
+os = "linux"
+
+    [[NCH5deflate.download]]
+    sha256 = "85cd60fc995bbdf5bec714d9c9efb25018f6efebc1cab3f8cc0d1256293ff4b0"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5deflate_jll.jl/releases/download/NCH5deflate-v401.1000.100+0/NCH5deflate.v401.1000.100.armv6l-linux-musleabihf-mpi+openmpi.tar.gz"
+[[NCH5deflate]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "db5189e39e2f10ecb1258977a3a7b3734fa45b28"
+libc = "glibc"
+mpi = "mpiabi"
+os = "linux"
+
+    [[NCH5deflate.download]]
+    sha256 = "660c75415daa0d1bf4ea5d6aa914bf8a80fc16fa3fef404dcc1f79c9c7cfaa1c"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5deflate_jll.jl/releases/download/NCH5deflate-v401.1000.100+0/NCH5deflate.v401.1000.100.armv7l-linux-gnueabihf-mpi+mpiabi.tar.gz"
+[[NCH5deflate]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "db5189e39e2f10ecb1258977a3a7b3734fa45b28"
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[NCH5deflate.download]]
+    sha256 = "660c75415daa0d1bf4ea5d6aa914bf8a80fc16fa3fef404dcc1f79c9c7cfaa1c"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5deflate_jll.jl/releases/download/NCH5deflate-v401.1000.100+0/NCH5deflate.v401.1000.100.armv7l-linux-gnueabihf-mpi+mpich.tar.gz"
+[[NCH5deflate]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "db5189e39e2f10ecb1258977a3a7b3734fa45b28"
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[NCH5deflate.download]]
+    sha256 = "660c75415daa0d1bf4ea5d6aa914bf8a80fc16fa3fef404dcc1f79c9c7cfaa1c"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5deflate_jll.jl/releases/download/NCH5deflate-v401.1000.100+0/NCH5deflate.v401.1000.100.armv7l-linux-gnueabihf-mpi+mpitrampoline.tar.gz"
+[[NCH5deflate]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "db5189e39e2f10ecb1258977a3a7b3734fa45b28"
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[NCH5deflate.download]]
+    sha256 = "660c75415daa0d1bf4ea5d6aa914bf8a80fc16fa3fef404dcc1f79c9c7cfaa1c"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5deflate_jll.jl/releases/download/NCH5deflate-v401.1000.100+0/NCH5deflate.v401.1000.100.armv7l-linux-gnueabihf-mpi+openmpi.tar.gz"
+[[NCH5deflate]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "eb2918032aef4ee965dca53d013b32b064859ff1"
+libc = "musl"
+mpi = "mpiabi"
+os = "linux"
+
+    [[NCH5deflate.download]]
+    sha256 = "3bf9bccd99696bb483ff6b0b13b3b724e8d369ad28ab205681e91f33d73786ae"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5deflate_jll.jl/releases/download/NCH5deflate-v401.1000.100+0/NCH5deflate.v401.1000.100.armv7l-linux-musleabihf-mpi+mpiabi.tar.gz"
+[[NCH5deflate]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "eb2918032aef4ee965dca53d013b32b064859ff1"
+libc = "musl"
+mpi = "mpich"
+os = "linux"
+
+    [[NCH5deflate.download]]
+    sha256 = "3bf9bccd99696bb483ff6b0b13b3b724e8d369ad28ab205681e91f33d73786ae"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5deflate_jll.jl/releases/download/NCH5deflate-v401.1000.100+0/NCH5deflate.v401.1000.100.armv7l-linux-musleabihf-mpi+mpich.tar.gz"
+[[NCH5deflate]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "eb2918032aef4ee965dca53d013b32b064859ff1"
+libc = "musl"
+mpi = "openmpi"
+os = "linux"
+
+    [[NCH5deflate.download]]
+    sha256 = "3bf9bccd99696bb483ff6b0b13b3b724e8d369ad28ab205681e91f33d73786ae"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5deflate_jll.jl/releases/download/NCH5deflate-v401.1000.100+0/NCH5deflate.v401.1000.100.armv7l-linux-musleabihf-mpi+openmpi.tar.gz"
+[[NCH5deflate]]
+arch = "i686"
+git-tree-sha1 = "3fe1f752e8d77c8375cadc404ef4cbaf55abf7fd"
+libc = "glibc"
+mpi = "mpiabi"
+os = "linux"
+
+    [[NCH5deflate.download]]
+    sha256 = "93dc0a03963e71f42c70b579529c7b23f06eb6fa9022bed7e5bb1bd165b4b752"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5deflate_jll.jl/releases/download/NCH5deflate-v401.1000.100+0/NCH5deflate.v401.1000.100.i686-linux-gnu-mpi+mpiabi.tar.gz"
+[[NCH5deflate]]
+arch = "i686"
+git-tree-sha1 = "3fe1f752e8d77c8375cadc404ef4cbaf55abf7fd"
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[NCH5deflate.download]]
+    sha256 = "93dc0a03963e71f42c70b579529c7b23f06eb6fa9022bed7e5bb1bd165b4b752"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5deflate_jll.jl/releases/download/NCH5deflate-v401.1000.100+0/NCH5deflate.v401.1000.100.i686-linux-gnu-mpi+mpich.tar.gz"
+[[NCH5deflate]]
+arch = "i686"
+git-tree-sha1 = "3fe1f752e8d77c8375cadc404ef4cbaf55abf7fd"
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[NCH5deflate.download]]
+    sha256 = "93dc0a03963e71f42c70b579529c7b23f06eb6fa9022bed7e5bb1bd165b4b752"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5deflate_jll.jl/releases/download/NCH5deflate-v401.1000.100+0/NCH5deflate.v401.1000.100.i686-linux-gnu-mpi+mpitrampoline.tar.gz"
+[[NCH5deflate]]
+arch = "i686"
+git-tree-sha1 = "3fe1f752e8d77c8375cadc404ef4cbaf55abf7fd"
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[NCH5deflate.download]]
+    sha256 = "93dc0a03963e71f42c70b579529c7b23f06eb6fa9022bed7e5bb1bd165b4b752"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5deflate_jll.jl/releases/download/NCH5deflate-v401.1000.100+0/NCH5deflate.v401.1000.100.i686-linux-gnu-mpi+openmpi.tar.gz"
+[[NCH5deflate]]
+arch = "i686"
+git-tree-sha1 = "e97cee0145898e61c0ac54b89951e7b80e2f0d09"
+libc = "musl"
+mpi = "mpiabi"
+os = "linux"
+
+    [[NCH5deflate.download]]
+    sha256 = "5732054f46a19cdf3c9af6bb540e98ca336a4f4629c1472f573af7e58640fa57"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5deflate_jll.jl/releases/download/NCH5deflate-v401.1000.100+0/NCH5deflate.v401.1000.100.i686-linux-musl-mpi+mpiabi.tar.gz"
+[[NCH5deflate]]
+arch = "i686"
+git-tree-sha1 = "e97cee0145898e61c0ac54b89951e7b80e2f0d09"
+libc = "musl"
+mpi = "mpich"
+os = "linux"
+
+    [[NCH5deflate.download]]
+    sha256 = "5732054f46a19cdf3c9af6bb540e98ca336a4f4629c1472f573af7e58640fa57"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5deflate_jll.jl/releases/download/NCH5deflate-v401.1000.100+0/NCH5deflate.v401.1000.100.i686-linux-musl-mpi+mpich.tar.gz"
+[[NCH5deflate]]
+arch = "i686"
+git-tree-sha1 = "e97cee0145898e61c0ac54b89951e7b80e2f0d09"
+libc = "musl"
+mpi = "openmpi"
+os = "linux"
+
+    [[NCH5deflate.download]]
+    sha256 = "5732054f46a19cdf3c9af6bb540e98ca336a4f4629c1472f573af7e58640fa57"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5deflate_jll.jl/releases/download/NCH5deflate-v401.1000.100+0/NCH5deflate.v401.1000.100.i686-linux-musl-mpi+openmpi.tar.gz"
+[[NCH5deflate]]
+arch = "i686"
+git-tree-sha1 = "f305ddc2a339a24f5206e27a9ce834367ea138f5"
+mpi = "microsoftmpi"
+os = "windows"
+
+    [[NCH5deflate.download]]
+    sha256 = "b115490e3488fa28d6999f751a0fb3792eda3e503ade012ab180efba152d4830"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5deflate_jll.jl/releases/download/NCH5deflate-v401.1000.100+0/NCH5deflate.v401.1000.100.i686-w64-mingw32-mpi+microsoftmpi.tar.gz"
+[[NCH5deflate]]
+arch = "powerpc64le"
+git-tree-sha1 = "d638648bfbf48dd0f1125b14f40a21f96dae13fe"
+libc = "glibc"
+mpi = "mpiabi"
+os = "linux"
+
+    [[NCH5deflate.download]]
+    sha256 = "a2d858a866f0ce6d60a75069621480f0c05dd1f9a6bd1434054d4e4048ae3457"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5deflate_jll.jl/releases/download/NCH5deflate-v401.1000.100+0/NCH5deflate.v401.1000.100.powerpc64le-linux-gnu-mpi+mpiabi.tar.gz"
+[[NCH5deflate]]
+arch = "powerpc64le"
+git-tree-sha1 = "d638648bfbf48dd0f1125b14f40a21f96dae13fe"
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[NCH5deflate.download]]
+    sha256 = "a2d858a866f0ce6d60a75069621480f0c05dd1f9a6bd1434054d4e4048ae3457"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5deflate_jll.jl/releases/download/NCH5deflate-v401.1000.100+0/NCH5deflate.v401.1000.100.powerpc64le-linux-gnu-mpi+mpich.tar.gz"
+[[NCH5deflate]]
+arch = "powerpc64le"
+git-tree-sha1 = "d638648bfbf48dd0f1125b14f40a21f96dae13fe"
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[NCH5deflate.download]]
+    sha256 = "a2d858a866f0ce6d60a75069621480f0c05dd1f9a6bd1434054d4e4048ae3457"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5deflate_jll.jl/releases/download/NCH5deflate-v401.1000.100+0/NCH5deflate.v401.1000.100.powerpc64le-linux-gnu-mpi+mpitrampoline.tar.gz"
+[[NCH5deflate]]
+arch = "powerpc64le"
+git-tree-sha1 = "d638648bfbf48dd0f1125b14f40a21f96dae13fe"
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[NCH5deflate.download]]
+    sha256 = "a2d858a866f0ce6d60a75069621480f0c05dd1f9a6bd1434054d4e4048ae3457"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5deflate_jll.jl/releases/download/NCH5deflate-v401.1000.100+0/NCH5deflate.v401.1000.100.powerpc64le-linux-gnu-mpi+openmpi.tar.gz"
+[[NCH5deflate]]
+arch = "riscv64"
+git-tree-sha1 = "070e9bac9790c39fe79573e126d02d372c045962"
+libc = "glibc"
+mpi = "mpiabi"
+os = "linux"
+
+    [[NCH5deflate.download]]
+    sha256 = "725c78ad506d369c998485b31d52a447a7876910842670dc303a6051b99b1e0b"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5deflate_jll.jl/releases/download/NCH5deflate-v401.1000.100+0/NCH5deflate.v401.1000.100.riscv64-linux-gnu-mpi+mpiabi.tar.gz"
+[[NCH5deflate]]
+arch = "riscv64"
+git-tree-sha1 = "070e9bac9790c39fe79573e126d02d372c045962"
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[NCH5deflate.download]]
+    sha256 = "725c78ad506d369c998485b31d52a447a7876910842670dc303a6051b99b1e0b"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5deflate_jll.jl/releases/download/NCH5deflate-v401.1000.100+0/NCH5deflate.v401.1000.100.riscv64-linux-gnu-mpi+mpich.tar.gz"
+[[NCH5deflate]]
+arch = "riscv64"
+git-tree-sha1 = "070e9bac9790c39fe79573e126d02d372c045962"
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[NCH5deflate.download]]
+    sha256 = "725c78ad506d369c998485b31d52a447a7876910842670dc303a6051b99b1e0b"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5deflate_jll.jl/releases/download/NCH5deflate-v401.1000.100+0/NCH5deflate.v401.1000.100.riscv64-linux-gnu-mpi+mpitrampoline.tar.gz"
+[[NCH5deflate]]
+arch = "riscv64"
+git-tree-sha1 = "070e9bac9790c39fe79573e126d02d372c045962"
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[NCH5deflate.download]]
+    sha256 = "725c78ad506d369c998485b31d52a447a7876910842670dc303a6051b99b1e0b"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5deflate_jll.jl/releases/download/NCH5deflate-v401.1000.100+0/NCH5deflate.v401.1000.100.riscv64-linux-gnu-mpi+openmpi.tar.gz"
+[[NCH5deflate]]
+arch = "x86_64"
+git-tree-sha1 = "f07d5ca2b51897fd2bf10d3ab5ea85396cc2bc0c"
+mpi = "mpiabi"
+os = "macos"
+
+    [[NCH5deflate.download]]
+    sha256 = "06e30c91d515c88850c0e35bf3b88fb930a93b9fdcc0a29756a30a51a92e8fb7"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5deflate_jll.jl/releases/download/NCH5deflate-v401.1000.100+0/NCH5deflate.v401.1000.100.x86_64-apple-darwin-mpi+mpiabi.tar.gz"
+[[NCH5deflate]]
+arch = "x86_64"
+git-tree-sha1 = "f07d5ca2b51897fd2bf10d3ab5ea85396cc2bc0c"
+mpi = "mpich"
+os = "macos"
+
+    [[NCH5deflate.download]]
+    sha256 = "06e30c91d515c88850c0e35bf3b88fb930a93b9fdcc0a29756a30a51a92e8fb7"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5deflate_jll.jl/releases/download/NCH5deflate-v401.1000.100+0/NCH5deflate.v401.1000.100.x86_64-apple-darwin-mpi+mpich.tar.gz"
+[[NCH5deflate]]
+arch = "x86_64"
+git-tree-sha1 = "f07d5ca2b51897fd2bf10d3ab5ea85396cc2bc0c"
+mpi = "mpitrampoline"
+os = "macos"
+
+    [[NCH5deflate.download]]
+    sha256 = "06e30c91d515c88850c0e35bf3b88fb930a93b9fdcc0a29756a30a51a92e8fb7"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5deflate_jll.jl/releases/download/NCH5deflate-v401.1000.100+0/NCH5deflate.v401.1000.100.x86_64-apple-darwin-mpi+mpitrampoline.tar.gz"
+[[NCH5deflate]]
+arch = "x86_64"
+git-tree-sha1 = "f07d5ca2b51897fd2bf10d3ab5ea85396cc2bc0c"
+mpi = "openmpi"
+os = "macos"
+
+    [[NCH5deflate.download]]
+    sha256 = "06e30c91d515c88850c0e35bf3b88fb930a93b9fdcc0a29756a30a51a92e8fb7"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5deflate_jll.jl/releases/download/NCH5deflate-v401.1000.100+0/NCH5deflate.v401.1000.100.x86_64-apple-darwin-mpi+openmpi.tar.gz"
+[[NCH5deflate]]
+arch = "x86_64"
+git-tree-sha1 = "54747d0abff9b08cd0ba832ed292f0f52b9c4da1"
+libc = "glibc"
+mpi = "mpiabi"
+os = "linux"
+
+    [[NCH5deflate.download]]
+    sha256 = "187f53b3495e34d5245247b405aad9d5bf53a32a5738e549b720b1936d07048a"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5deflate_jll.jl/releases/download/NCH5deflate-v401.1000.100+0/NCH5deflate.v401.1000.100.x86_64-linux-gnu-mpi+mpiabi.tar.gz"
+[[NCH5deflate]]
+arch = "x86_64"
+git-tree-sha1 = "54747d0abff9b08cd0ba832ed292f0f52b9c4da1"
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[NCH5deflate.download]]
+    sha256 = "187f53b3495e34d5245247b405aad9d5bf53a32a5738e549b720b1936d07048a"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5deflate_jll.jl/releases/download/NCH5deflate-v401.1000.100+0/NCH5deflate.v401.1000.100.x86_64-linux-gnu-mpi+mpich.tar.gz"
+[[NCH5deflate]]
+arch = "x86_64"
+git-tree-sha1 = "54747d0abff9b08cd0ba832ed292f0f52b9c4da1"
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[NCH5deflate.download]]
+    sha256 = "187f53b3495e34d5245247b405aad9d5bf53a32a5738e549b720b1936d07048a"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5deflate_jll.jl/releases/download/NCH5deflate-v401.1000.100+0/NCH5deflate.v401.1000.100.x86_64-linux-gnu-mpi+mpitrampoline.tar.gz"
+[[NCH5deflate]]
+arch = "x86_64"
+git-tree-sha1 = "54747d0abff9b08cd0ba832ed292f0f52b9c4da1"
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[NCH5deflate.download]]
+    sha256 = "187f53b3495e34d5245247b405aad9d5bf53a32a5738e549b720b1936d07048a"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5deflate_jll.jl/releases/download/NCH5deflate-v401.1000.100+0/NCH5deflate.v401.1000.100.x86_64-linux-gnu-mpi+openmpi.tar.gz"
+[[NCH5deflate]]
+arch = "x86_64"
+git-tree-sha1 = "d0a55d15dd09c516f70db0986b6463e8780ed613"
+libc = "musl"
+mpi = "mpiabi"
+os = "linux"
+
+    [[NCH5deflate.download]]
+    sha256 = "7de0f1e4cc1f538f7e9d176c8dd04302062848c0a7672f36a0f909dbfee0dc07"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5deflate_jll.jl/releases/download/NCH5deflate-v401.1000.100+0/NCH5deflate.v401.1000.100.x86_64-linux-musl-mpi+mpiabi.tar.gz"
+[[NCH5deflate]]
+arch = "x86_64"
+git-tree-sha1 = "d0a55d15dd09c516f70db0986b6463e8780ed613"
+libc = "musl"
+mpi = "mpich"
+os = "linux"
+
+    [[NCH5deflate.download]]
+    sha256 = "7de0f1e4cc1f538f7e9d176c8dd04302062848c0a7672f36a0f909dbfee0dc07"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5deflate_jll.jl/releases/download/NCH5deflate-v401.1000.100+0/NCH5deflate.v401.1000.100.x86_64-linux-musl-mpi+mpich.tar.gz"
+[[NCH5deflate]]
+arch = "x86_64"
+git-tree-sha1 = "d0a55d15dd09c516f70db0986b6463e8780ed613"
+libc = "musl"
+mpi = "openmpi"
+os = "linux"
+
+    [[NCH5deflate.download]]
+    sha256 = "7de0f1e4cc1f538f7e9d176c8dd04302062848c0a7672f36a0f909dbfee0dc07"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5deflate_jll.jl/releases/download/NCH5deflate-v401.1000.100+0/NCH5deflate.v401.1000.100.x86_64-linux-musl-mpi+openmpi.tar.gz"
+[[NCH5deflate]]
+arch = "x86_64"
+git-tree-sha1 = "4e766a0ac08bd584eb917ad88cdcc47f2587da53"
+mpi = "mpiabi"
+os = "freebsd"
+
+    [[NCH5deflate.download]]
+    sha256 = "f3ea965851700c5403ac67129dff879da3920cc2394920d3da4aff8ae24e98b7"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5deflate_jll.jl/releases/download/NCH5deflate-v401.1000.100+0/NCH5deflate.v401.1000.100.x86_64-unknown-freebsd-mpi+mpiabi.tar.gz"
+[[NCH5deflate]]
+arch = "x86_64"
+git-tree-sha1 = "4e766a0ac08bd584eb917ad88cdcc47f2587da53"
+mpi = "mpich"
+os = "freebsd"
+
+    [[NCH5deflate.download]]
+    sha256 = "f3ea965851700c5403ac67129dff879da3920cc2394920d3da4aff8ae24e98b7"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5deflate_jll.jl/releases/download/NCH5deflate-v401.1000.100+0/NCH5deflate.v401.1000.100.x86_64-unknown-freebsd-mpi+mpich.tar.gz"
+[[NCH5deflate]]
+arch = "x86_64"
+git-tree-sha1 = "4e766a0ac08bd584eb917ad88cdcc47f2587da53"
+mpi = "mpitrampoline"
+os = "freebsd"
+
+    [[NCH5deflate.download]]
+    sha256 = "f3ea965851700c5403ac67129dff879da3920cc2394920d3da4aff8ae24e98b7"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5deflate_jll.jl/releases/download/NCH5deflate-v401.1000.100+0/NCH5deflate.v401.1000.100.x86_64-unknown-freebsd-mpi+mpitrampoline.tar.gz"
+[[NCH5deflate]]
+arch = "x86_64"
+git-tree-sha1 = "4e766a0ac08bd584eb917ad88cdcc47f2587da53"
+mpi = "openmpi"
+os = "freebsd"
+
+    [[NCH5deflate.download]]
+    sha256 = "f3ea965851700c5403ac67129dff879da3920cc2394920d3da4aff8ae24e98b7"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5deflate_jll.jl/releases/download/NCH5deflate-v401.1000.100+0/NCH5deflate.v401.1000.100.x86_64-unknown-freebsd-mpi+openmpi.tar.gz"
+[[NCH5deflate]]
+arch = "x86_64"
+git-tree-sha1 = "04a115d67f6e75210d375ea662cdbc39deba4877"
+mpi = "microsoftmpi"
+os = "windows"
+
+    [[NCH5deflate.download]]
+    sha256 = "33480c35ffba13cd1679d1063103138496f1ed053405eba2f63a4e63a759fcb9"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5deflate_jll.jl/releases/download/NCH5deflate-v401.1000.100+0/NCH5deflate.v401.1000.100.x86_64-w64-mingw32-mpi+microsoftmpi.tar.gz"
